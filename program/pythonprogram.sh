@@ -1,4 +1,4 @@
-mkdir -p SAT-3310---FINAL-EXAM/data
-cd SAT-3310---FINAL-EXAM
+mkdir -p /data
+cd ~/Documents/labs/SAT-3310---Final-Exam/data
 
 wget http://pages.mtu.edu/~toarney/sat3310/final/medicaldata.csv -P data

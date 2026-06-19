@@ -1,0 +1,5 @@
+Total number of facilities: 54
+Total number of beds: 5151
+Average number of beds per facility: 95.39
+Average rural nurse salary: 3222.74
+Average urban nurse salary: 4709.05
